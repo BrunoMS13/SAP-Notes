@@ -6,10 +6,6 @@ LSMW is a standard SAP tool used to transfer data from legacy systems into SAP. 
 
 ---
 
-## The 13 Steps of LSMW
-
----
-
 ### Step 1 – Define Object Attributes
 
 Define the **Object Type** and **Import Method** that LSMW will use to load data into SAP. This is the most critical configuration decision as it determines how data is posted.
