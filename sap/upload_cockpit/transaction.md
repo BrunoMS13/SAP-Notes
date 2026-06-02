@@ -68,7 +68,7 @@ This step allows you to define reusable conversion logic that can be referenced 
 
 Assign the **file paths** for the input and output files used during the migration run.
 
-- **Legacy Data (Source File):** The flat `.txt` file extracted from your Excel or source system containing the records to be uploaded. This is assigned in the next step (Step 8).
+- **Legacy Data (Source File):** The flat `.txt` file extracted from your Excel or source system containing the records to be uploaded.
 - **Imported Data File:** Typically named with the pattern `*.lsmw.read` — the raw read output after Step 9.
 - **Converted Data File:** Typically named with the pattern `*.lsmw.conv` — the output after conversion in Step 11.
 
