@@ -1,7 +1,11 @@
-# Bins [WM]
+# Bin Upload [WM]
 
-0210 - RLPLA
+"Define Object Attributes"
+Object Type and Program (Direct Input)
+0210 - RLPLAT00
 
+"Define Source Structures"
+ZBIN_SRC - Bin Source Data
 LGNUM - Warehouse Number
 LGTYP - Storage Type
 LGPLA - Storage Bin
