@@ -2,8 +2,8 @@
 https://community.sap.com/t5/enterprise-architecture-discussions/sap-s4-hana-embedded-ewm-configuration-blog-1-step-by-step-guide/m-p/13693108
 
 # 1. Defining RFC destination
- -[SM59]: Create
-    Destination: S4HCLNT100
+ -[SM59]: Create x2
+    Destination: S4HCLNT100 / S4HEWM100
     Connection type: 3 (RFC Connection to ABAP System)
 
     Technical Settings: Load Balancing - No

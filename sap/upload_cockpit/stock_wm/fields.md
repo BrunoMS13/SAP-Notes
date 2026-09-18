@@ -1,4 +1,4 @@
-# Bin Upload [WM]
+# WM Stock Upload [WM]
 
 **Transaction**: `LSMW`
 
